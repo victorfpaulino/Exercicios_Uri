@@ -11,20 +11,16 @@ public class Uri_1067 {
 		
 		if (X < 1) {
 			X = 1;
-		}else if (X > 1000){
+		} else if (X > 1000){
 			X = 1000;
 		}
-		
-		
+			
 		for (int i = 0; i <= X; i++) {
 			if (i % 2 != 0) {
 				System.out.println(i);
 			}
 		}
 
-		
-		
-		
 		sc.close();
 
 	}
