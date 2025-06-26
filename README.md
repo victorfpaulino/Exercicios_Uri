@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Logo">
+  <img src="https://img.shields.io/badge/STATUS-EM%20ANDAMENTO-yellow" alt="Status: Em andamento">
 </p>
 
 Repositório contendo soluções para exercícios de lógica de programação desenvolvidos durante o curso de Java da Udemy.
