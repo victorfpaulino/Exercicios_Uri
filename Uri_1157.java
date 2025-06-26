@@ -14,8 +14,6 @@ public class Uri_1157 {
 			}
 		}
 		
-		
-		
 		sc.close();
 
 	}
