@@ -20,8 +20,7 @@ public class Uri_1154 {
 		}
 		
 		System.out.printf("%.2f%n", (somaIdades/cont));
-		
-		
+				
 		sc.close();
 	}
 
