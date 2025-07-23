@@ -8,10 +8,15 @@ public class Uri_1078 {
 		Scanner sc = new Scanner (System.in);
 		int N = sc.nextInt();
 		
+		
 		for (int i=1; i <= 10; i++) {
 			System.out.println(i+" x "+N +" = "+N*i);
 		}
-			
+		
+		
+		
+		
+		
 		sc.close();
 	}
 

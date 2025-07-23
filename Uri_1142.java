@@ -14,7 +14,9 @@ public class Uri_1142 {
 			System.out.printf("%d %d %d PUM\n", numeroAtual, numeroAtual+1, numeroAtual+2);
 			numeroAtual = numeroAtual + 4;
 		}
-				
+		
+		
+		
 		sc.close();
 
 	}

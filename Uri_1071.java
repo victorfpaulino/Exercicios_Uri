@@ -14,20 +14,24 @@ public class Uri_1071 {
 		if (num1 < num2) {
 			min = num1;
 			max = num2;
-		} else {
+		}else {
 			min = num2;
 			max = num1;
 		}
 		
 		int soma = 0;
-		for (int i = min+1; i < max; i++) {
+		for (int i=min+1; i<max; i++) {
 			if (i % 2 != 0) {
 				soma = soma + i;
 			}
 		}
 		
 		System.out.println(soma);
-			
+		
+		
+		
+		
+		
 		sc.close();
 
 	}

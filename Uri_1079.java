@@ -19,9 +19,10 @@ public class Uri_1079 {
 			media = ((n1 * 0.2)+(n2 * 0.3)+(n3 * 0.5))/(0.2+0.3+0.5);
 			System.out.printf("%.1f%n", media);
 		}
-			
-		sc.close();
 		
+		
+		sc.close();
+
 	}
 
 }

@@ -14,7 +14,8 @@ public class Uri_1143 {
 			System.out.printf("%d %d %d\n", numeroAtual, numeroAtual*numeroAtual, numeroAtual*numeroAtual*numeroAtual);
 			numeroAtual++;
 		}
-				
+		
+		
 		sc.close();
 
 	}

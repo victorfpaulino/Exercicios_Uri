@@ -31,9 +31,13 @@ public class Uri_1101 {
 				soma += i;
 			}
 			
-			System.out.println("Sum=" + soma);	
+			System.out.println("Sum=" + soma);
+			
+			
 		}
-					
+		
+		
+			
 		sc.close();
 
 	}
