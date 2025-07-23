@@ -1,7 +1,7 @@
 # Exercícios de Lógica de Programação em Java
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-EM%20ANDAMENTO-yellow" alt="Status: Em andamento">
+  <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-brightgreen" alt="Status: Concluído">
 </p>
 
 Repositório contendo soluções para exercícios do Beecrowd/URI de lógica de programação desenvolvidos durante o curso de Java da Udemy.
